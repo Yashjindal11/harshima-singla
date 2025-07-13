@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    background: #FFF7ED;
+    color: #0F172A;
+}
+.main-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
